@@ -1,2 +1,3 @@
 # Hi
-this is a new project 
+this is a new project.
+for our teaching 
